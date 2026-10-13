@@ -6,7 +6,7 @@ EFA submitted · boatfx-repro · BOAT Terminal · already in motion
 ```
 
 **I don't hunt factors. I prove where the hunt is blind.**  
-And I prove the exact limit on fixing it: a factor's strength can be real but **misallocated** — a mistake about *where* it is tested, with a hard recoverability floor at **m\* ≈ 1.3 factors**.  
+And I prove the exact limit on fixing it: a factor's strength can be real but **misallocated** — a mistake about *where* it is tested. One pooled reallocation takes Sharpe **0.85 → 1.30** (3/4 of the way to the 1.45 ceiling); the **converse** proves no router recovers the rest (floor at **m\* ≈ 1.3 factors**).  
 Also shipping **BOAT Terminal** — a student quant desk (Rust · Python · Flutter) with a 6-agent parliament.
 
 Independent researcher · systems builder · on academic leave from Shanghai Lixin University of Accounting and Finance for full-time research · applying / building in public · `15761209998@163.com`
@@ -31,7 +31,7 @@ Independent researcher · systems builder · on academic leave from Shanghai Lix
 ## The scientific claim
 
 Unconditional screens miss **state-dependent premia** — the blind-spot shape is \(t_g \approx t_{\mathrm{state}}\sqrt{\pi}\), so a factor strong inside a rare state looks globally weak and gets discarded.  
-The deeper law: recovering that strength is a **BBP phase transition** with a hard floor at **m\* ≈ 1.3 factors** — a single coarse reallocation captures **76%** of the hindsight oracle (Sharpe **0.85 → 1.30**), while per-factor routing is information-theoretically impossible.
+The deeper law: a single coarse reallocation moves OOS Sharpe **0.85 → 1.30**, three-quarters of the grave→oracle gap (ceiling **1.45**); the converse is a **BBP phase transition** at **m\* ≈ 1.3 factors** — five frozen routers recover **≤ 0.05** of the residual, fine routing loses **0.18**, only **6 of 94** factors clear the per-factor wall. Coarse *is* the capacity, not a step toward beating the oracle.
 
 **Misallocated, Not Mispriced** — working paper (companion to the JF submission; acceptance not claimed)  
 **Global Weakness, Local Strength** — the deployable predecessor  
