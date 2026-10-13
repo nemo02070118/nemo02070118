@@ -6,9 +6,10 @@ EFA submitted · boatfx-repro · BOAT Terminal · already in motion
 ```
 
 **I don't hunt factors. I prove where the hunt is blind.**  
+And I prove the exact limit on fixing it: a factor's strength can be real but **misallocated** — a mistake about *where* it is tested, with a hard recoverability floor at **m\* ≈ 1.3 factors**.  
 Also shipping **BOAT Terminal** — a student quant desk (Rust · Python · Flutter) with a 6-agent parliament.
 
-Independent researcher · systems builder · academic leave for full-time research · applying / building in public · `15761209998@163.com`
+Independent researcher · systems builder · on academic leave from Shanghai Lixin University of Accounting and Finance for full-time research · applying / building in public · `15761209998@163.com`
 
 ---
 
@@ -21,21 +22,23 @@ Independent researcher · systems builder · academic leave for full-time resear
 | **Walkthrough** | [youtu.be/tVHLUQy93rg](https://youtu.be/tVHLUQy93rg) |
 | **Repro pack** | [`python repro.py`](https://github.com/nemo02070118/boatfx-repro) |
 | **AI factory guts** | [`system_showcase`](https://github.com/nemo02070118/boatfx-repro/tree/main/system_showcase) |
+| **Resolution limit (new paper)** | [#limit](https://nemo02070118.github.io/boatfx-repro/#limit) · full PDF password-gated during review |
 
-**Agency signal:** leave of absence to pursue this research full-time — not a weekend demo.
+**Agency signal:** on academic leave from Shanghai Lixin University of Accounting and Finance to pursue this research full-time — not a weekend demo.
 
 ---
 
 ## The scientific claim
 
-Unconditional screens miss **state-dependent premia**.  
-Blind-spot shape: \(t_g \approx t_{\mathrm{state}}\sqrt{\pi}\).
+Unconditional screens miss **state-dependent premia** — the blind-spot shape is \(t_g \approx t_{\mathrm{state}}\sqrt{\pi}\), so a factor strong inside a rare state looks globally weak and gets discarded.  
+The deeper law: recovering that strength is a **BBP phase transition** with a hard floor at **m\* ≈ 1.3 factors** — a single coarse reallocation captures **76%** of the hindsight oracle (Sharpe **0.85 → 1.30**), while per-factor routing is information-theoretically impossible.
 
-**Global Weakness, Local Strength**  
+**Misallocated, Not Mispriced** — working paper (companion to the JF submission; acceptance not claimed)  
+**Global Weakness, Local Strength** — the deployable predecessor  
 → **Journal of Finance** · MS 2026-0738 · **passed desk · external review** · editor: Antoinette Schoar  
 → **Eastern Finance Association (EFA)** · submitted
 
-Machines make factor *supply* cheap. The filter still asks the wrong question.
+Machines make factor *supply* cheap. The filter still asks the wrong question — about *whether*, when it should ask *where*.
 
 ---
 
