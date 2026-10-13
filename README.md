@@ -9,7 +9,7 @@ EFA submitted · boatfx-repro · BOAT Terminal · already in motion
 And I prove the exact limit on fixing it: a factor's strength can be real but **misallocated** — a mistake about *where* it is tested. One pooled reallocation takes Sharpe **0.85 → 1.30** (3/4 of the way to the 1.45 ceiling); the **converse** proves no router recovers the rest (floor at **m\* ≈ 1.3 factors**).  
 Also shipping **BOAT Terminal** — a student quant desk (Rust · Python · Flutter) with a 6-agent parliament.
 
-Independent researcher · systems builder · on academic leave from Shanghai Lixin University of Accounting and Finance for full-time research · applying / building in public · `15761209998@163.com`
+Independent researcher · systems builder · on academic leave from Shanghai Lixin University of Accounting and Finance for full-time research · applying / building in public · `huanian.jin@outlook.com`
 
 ---
 
@@ -76,6 +76,6 @@ Private **boatfx** monorepo notes in repo `SCALE.md` — public repo is the rece
 
 ## Contact
 
-[15761209998@163.com](mailto:15761209998@163.com) · [@nemo02070118](https://github.com/nemo02070118)
+[huanian.jin@outlook.com](mailto:huanian.jin@outlook.com) · [@nemo02070118](https://github.com/nemo02070118)
 
 *Academy-facing one-liner: already in motion — JF-track research + shipped multi-agent quant desk + labeled live book.*
