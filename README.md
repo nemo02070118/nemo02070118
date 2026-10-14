@@ -35,11 +35,16 @@ On academic leave from Shanghai Lixin University of Accounting and Finance for f
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemo02070118/nemo02070118/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nemo02070118/nemo02070118/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nemo02070118/nemo02070118/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img alt="quant terminal — resolution limit, equity curve, and a contribution-grid snake" src="https://raw.githubusercontent.com/nemo02070118/nemo02070118/main/assets/quant-hero.svg" width="920" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nemo02070118/nemo02070118/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/nemo02070118/nemo02070118/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
