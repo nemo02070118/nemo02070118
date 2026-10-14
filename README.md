@@ -12,9 +12,11 @@
 
 <div align="center">
 
-[![JF](https://img.shields.io/badge/Journal_of_Finance-MS_2026--0738_·_external_review-00529b?style=for-the-badge)](https://github.com/nemo02070118/localstrength-repro)
-[![EFA](https://img.shields.io/badge/EFA-submitted-4b2e83?style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-nemo02070118.github.io-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://nemo02070118.github.io/boatfx-repro/)
+![JF](https://img.shields.io/badge/JF-MS%202026--0738%20·%20external%20review-0b1021?style=flat-square&labelColor=0b1021&color=1f3a5f)
+![EFA](https://img.shields.io/badge/EFA-submitted-0b1021?style=flat-square&labelColor=0b1021&color=1f3a5f)
+[![SSRN](https://img.shields.io/badge/SSRN-working%20paper-0b1021?style=flat-square&labelColor=0b1021&color=1f3a5f)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7607684)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--9124--9152-0b1021?style=flat-square&labelColor=0b1021&color=a6ce39&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-9124-9152)
+[![Repro](https://img.shields.io/badge/replication-localstrength--repro-0b1021?style=flat-square&labelColor=0b1021&color=1f3a5f&logo=github&logoColor=white)](https://github.com/nemo02070118/localstrength-repro)
 
 </div>
 
@@ -22,12 +24,14 @@
 
 On academic leave from Shanghai Lixin University of Accounting and Finance for full-time research · building in public · `huanian.jin@outlook.com`
 
+**▸ Latest:** *The Resolution Limit of Factor Discovery — Why the Replication Crisis Is a Measurement Problem.* Derives the law $q^2(\tau)=\tau/(1+\tau)$ and shows every empirical result, positive and negative, is one reading of a single curve. [paper + full replication →](https://github.com/nemo02070118/localstrength-repro)
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nemo02070118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo02070118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nemo02070118&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1021&title_color=5B8DEF&text_color=c9d1d9&icon_color=5B8DEF" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo02070118&layout=compact&hide_border=true&langs_count=8&bg_color=0b1021&title_color=5B8DEF&text_color=c9d1d9" alt="top langs" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nemo02070118&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nemo02070118&hide_border=true&background=0b1021&stroke=1f3a5f&ring=5B8DEF&fire=5B8DEF&currStreakLabel=5B8DEF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
 
